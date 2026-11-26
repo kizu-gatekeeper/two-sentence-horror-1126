@@ -1,7 +1,7 @@
 """Entry for make.fun bounty: Two-Sentence Horror.
 
 Writes a horror story in exactly two sentences (at most 400 characters)
-to $MAKEFUN_OUTPUT_DIR/entry.txt.
+to $MAKEFUN_OUTPUT_DIR/entry.txt, with no trailing newline.
 """
 
 import os
